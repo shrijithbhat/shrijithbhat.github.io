@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Kannada Sign Language Recognition",
+    "subtitle": "AI/ML Full Stack Tool",
+    "date": "July 2022",
+    "details": [
+      "A real-time Kannada Sign language detection application (Python, OpenCV, Flask, HTML/CSS/JS) trained on 15,000+ custom gesture datasets. Conducted a case study on a student from AIISH, Mysuru.",
+      "Published Research Paper: \"Implementation of Kannada Sign Language Recognition using Machine Learning\" in IJARCCE."
+    ]
+  },
+  {
+    "title": "Telegram bot for Indian Supermarket store",
+    "subtitle": "AI agent bot",
+    "date": "June 2026",
+    "details": [
+      "A telegram AI bot with harness, with database CRUD operation tools for easy natural language command-based inventory, account and invoice management, GSTinvoice and sales PPT generations. (Python, Gemini SDK, AI agents, Harness, Telegram API)",
+      "Used Google Antigravity AI as a leverage to make fast paced progress."
+    ]
+  },
+  {
+    "title": "Telegram drive",
+    "subtitle": "In progress",
+    "date": "June 2026",
+    "details": [
+      "Online drive like interface to store files in telegram storage. Files will be uploaded to saved messages or a specified chat and retrieved through Telegram APIs (Python, React, Vite, Telegram API)"
+    ]
+  },
+  {
+    "title": "Bidirectional visitor counter with limit",
+    "subtitle": "Arduino based sensing system",
+    "date": "Aug 2021",
+    "details": [
+      "Counts the no. of visitors entering & leaving the room using IR sensing mechanism. Integrated buzzer with limit trigger. (Arduino IDE)"
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "category": "Backend & Languages",
+    "items": ["Python", "SQL", "Shell Scripting", "Flask", "REST APIs", "Async APIs", "Microservices", "DSA", "System Design", "HLD", "Problem solving"]
+  },
+  {
+    "category": "Frontend",
+    "items": ["React.js", "Angular", "TypeScript", "JavaScript", "HTML", "CSS", "Streamlit"]
+  },
+  {
+    "category": "AI Engineering & Fwks",
+    "items": ["Agentic AI", "Harness", "LangChain", "LangGraph", "RAG", "AWS Bedrock", "Gemini SDK", "OpenAI APIs"]
+  },
+  {
+    "category": "Databases & Cloud",
+    "items": ["PostgreSQL", "MySQL", "DynamoDB", "AWS", "Snowflake", "IBM Watsonx.Data"]
+  },
+  {
+    "category": "DevOps & Infrastructure",
+    "items": ["Docker", "Podman", "Jenkins CI/CD", "Bitbucket Pipelines", "Git", "Prometheus", "Grafana", "Kibana"]
+  }
+]

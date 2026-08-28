@@ -1,0 +1,14 @@
+{
+  "name": "SRIJITH S BHAT",
+  "title": "Software Development Engineer",
+  "location": "Bengaluru, Karnataka, India",
+  "email": "shrijithbhat@gmail.com",
+  "links": {
+    "linkedin": "https://www.linkedin.com/in/shrijith-bhat/",
+    "leetcode": "https://leetcode.com/u/Shrijith05/",
+    "github": "https://github.com/Shrijith-bhat",
+    "ijarcce_paper": "https://ijarcce.com/papers/implementation-of-kannada-sign-language-recognition-using-machine-learning/",
+    "hackerrank": "https://www.hackerrank.com/profile/shrijithbhat"
+  },
+  "summary": "Full Stack Software Development Engineer with ~4 years of experience building scalable end-to-end web applications, microservices, and modern AI-driven solutions. Specialized in Python, Flask, AI integrations, Agentic AI, LLM Harness Engineering, etc. Proven track record of taking owning, architecting backend systems from scratch, database table schemas, designing data-driven backends, AI agents, and automating deployment pipelines in high-availability enterprise environments."
+}

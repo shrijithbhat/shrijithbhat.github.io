@@ -1,1 +1,0 @@
-# shrijith.github.io

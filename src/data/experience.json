@@ -1,0 +1,62 @@
+[
+  {
+    "company": "Trellix",
+    "logo": "https://www.google.com/s2/favicons?domain=trellix.com&sz=128",
+    "url": "https://www.trellix.com",
+    "role": "Software Development Engineer",
+    "duration": "Oct 2024 – Present",
+    "location": "Bengaluru, India",
+    "type": "On-site",
+    "achievements": [
+      "Designed and developed backend and frontend for interactive AI chat for EDR, with modern UI with auto-scrolling, markdown rendering, and streaming APIs and prompts, leveraging AI (Claude code).",
+      "Architected multi-step Agentic AI workflows and LTMS using LangChain, LangGraph, Python, and AWS Bedrock to improve complex threat analysis tasks in EDR.",
+      "Built real-time AI response streaming features across the frontend (TypeScript, Angular) and backend (Python, Flask), drastically reducing user-perceived waiting time and enhancing UX.",
+      "Scripted multi-region automated telemetry data extractions from Prometheus; diagnosed production logs and constructed monitoring dashboards with Kibana and Grafana.",
+      "Built end-to-end full stack genAI Feedback Dashboard (Python, Streamlit, MySQL, S3) to track user inputs to improve the genAI integration.",
+      "Led SDLC of monthly releases of microservices, improved the processes with automations and vulnerability tracing dashboards."
+    ]
+  },
+  {
+    "company": "nFolks Data Solutions",
+    "logo": "https://www.google.com/s2/favicons?domain=nfolksdata.com&sz=128",
+    "url": "https://nfolksdata.com",
+    "role": "Software Engineer",
+    "duration": "Aug 2022 – Oct 2024",
+    "location": "Hyderabad, India",
+    "type": "Remote",
+    "achievements": [
+      "Architected the frameworks for GenAI integration, SQL editors, and Secret Manager within the Datadios ecosystem.",
+      "Initiated, designed and built full stack SQL Editor using React.js on the frontend and Python on the backend.",
+      "Integrated GenAI to SQL Editor with OpenAI LLMs on LangChain to generate SQL queries from natural language.",
+      "Implemented an asynchronous Metadata Sync engine supporting PostgreSQL, AWS Redshift, and Snowflake with Async APIs, custom data-type mapping frameworks, and batch processing.",
+      "Developed multiple REST APIs with new feature implementations. Improved code quality with e2e and unit testing enhancements.",
+      "Led multiple enterprise client’s on-prem deployments with using Docker and Podman across ubuntu and RHEL servers.",
+      "Designed and optimized multiple Jenkins and Bitbucket pipelines to make the testing and deployment on multiple servers fully automated and significantly faster by at least 70%. Added Webhooks for Outlook and bitbucket integrations for automation.",
+      "Designed and implemented scalable generic cloud integration framework for easy user cloud configuration and integration"
+    ]
+  },
+  {
+    "company": "nFolks Data Solutions",
+    "logo": "https://www.google.com/s2/favicons?domain=nfolksdata.com&sz=128",
+    "url": "https://nfolksdata.com",
+    "role": "Trainee Engineer Intern",
+    "duration": "Apr 2022 – Jul 2022",
+    "location": "Hyderabad, India",
+    "type": "Remote",
+    "achievements": [
+      "Contributed to backend of the DataDios product; gained proficiency in Git, Docker, and RESTful architecture."
+    ]
+  },
+  {
+    "company": "TechCiti Software",
+    "logo": "https://www.google.com/s2/favicons?domain=techciti.in&sz=128",
+    "url": "https://www.techcitisoftware.in/",
+    "role": "Software Developer Intern",
+    "duration": "Aug 2021 – Sep 2021",
+    "location": "Bengaluru, India",
+    "type": "Remote",
+    "achievements": [
+      "Gained hands-on experience on the basics of full stack web development using HTML, CSS, and JS."
+    ]
+  }
+]
