@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import experienceData from '../data/experience.json';
 import trellixLogo from '../assets/trellix_logo.png';
 import nfolksLogo from '../assets/nFolks_Logo.png';
-import techcitiLogo from '../assets/techciti)logo.jpg';
+import techcitiLogo from '../assets/techciti_logo.jpg';
 
 const localLogos = {
   "Trellix": trellixLogo,

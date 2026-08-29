@@ -26,7 +26,7 @@ const Education = () => {
                 </a>
                 
                 <div className="text-gray-400 space-y-3 flex-grow">
-                  <p className="text-sm leading-relaxed">{edu.details}</p>
+                  <p className="text-sm leading-relaxed whitespace-pre-line">{edu.details}</p>
                 </div>
               </div>
             </div>

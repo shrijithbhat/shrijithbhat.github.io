@@ -30,6 +30,7 @@ const Navbar = () => {
           <a href="#projects" className="text-gray-300 hover:text-primary transition-colors text-sm font-medium">Projects</a>
           <a href="#publications" className="text-gray-300 hover:text-primary transition-colors text-sm font-medium">Publications</a>
           <a href="#education" className="text-gray-300 hover:text-primary transition-colors text-sm font-medium">Education</a>
+          <a href="#hobbies" className="text-gray-300 hover:text-primary transition-colors text-sm font-medium">Hobbies</a>
           
           <button 
             onClick={toggleLightMode}
