@@ -108,7 +108,7 @@ const ExperienceCard = ({ job, logo, isEven }) => {
           <span className="text-xs px-2 py-0.5 bg-dark rounded border border-gray-700">{job.type}</span>
         </div>
         
-        <ul className="space-y-2 text-sm text-gray-400 mb-2 relative">
+        {/* <ul className="space-y-2 text-sm text-gray-400 mb-2 relative">
           {(isExpanded ? job.achievements : [job.achievements[0]]).map((achievement, aIdx) => (
             <li key={aIdx} className="flex gap-2">
               <span className="text-primary mt-1 shrink-0">▹</span>
@@ -118,7 +118,7 @@ const ExperienceCard = ({ job, logo, isEven }) => {
           {!isExpanded && hasMore && (
             <div className="absolute bottom-0 left-0 w-full h-8 bg-gradient-to-t from-dark-lighter to-transparent pointer-events-none"></div>
           )}
-        </ul>
+        </ul> */}
 
         {hasMore && (
           <div className="flex items-center gap-1 text-primary text-xs font-semibold mt-4 transition-all">
