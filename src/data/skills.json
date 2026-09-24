@@ -5,7 +5,7 @@
   },
   {
     "category": "Frontend",
-    "items": ["React.js", "Angular", "TypeScript", "JavaScript", "HTML", "CSS", "Streamlit"]
+    "items": ["React.js", "Angular", "TypeScript", "JavaScript","Streamlit"]
   },
   {
     "category": "AI Engineering & Fwks",

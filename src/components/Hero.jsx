@@ -23,11 +23,11 @@ const Hero = () => {
           {profileData.name}
         </h1>
         <h2 className="text-3xl md:text-5xl font-semibold text-gray-400 mb-8">
-          I build scalable web applications.
+          {profileData.title}
         </h2>
         <p className="text-gray-400 text-lg md:text-xl leading-relaxed mb-6 max-w-2xl mx-auto md:mx-0">
-          I'm a {profileData.title} specializing in Python, React, and AI integrations. 
-          I have a proven track record of architecting backend systems from scratch and building modern AI-driven solutions.
+          I'm a {profileData.title} specializing in Python, and AI integrations. 
+          With proven track record of architecting backend systems from scratch and building modern AI-driven solutions.
         </p>
 
         <div className="flex gap-4 justify-center md:justify-start mb-10">
